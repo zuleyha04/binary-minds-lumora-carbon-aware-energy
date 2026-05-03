@@ -131,4 +131,6 @@ binary-minds-lumora-carbon-aware-energy
 - [Züleyha Akbaş](https://github.com/zuleyha04)
 - [Gizem Efe](https://github.com/gizembm)
 
+  
+
 ---
