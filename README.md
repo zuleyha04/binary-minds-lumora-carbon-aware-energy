@@ -39,6 +39,10 @@ Hackathon kapsamında hazırladığımız proje sunumuna aşağıdaki bağlantı
 
 ![Lumora Sunum](images/lumora_sunum.png)
 
+Drive linki:
+https://docs.google.com/document/d/1apzMuZLylvERG_yi_Ju-rmM0WPQ22ANbtQJUIwKOseE/edit?usp=sharing
+
+Prezi linki:
 https://prezi.com/view/JQ0CPhOMy2v15W6o6g5d/?referral_token=ClMZdalnB3FN
 
 ---
