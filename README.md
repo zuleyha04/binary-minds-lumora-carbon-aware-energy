@@ -77,7 +77,7 @@ https://prezi.com/view/JQ0CPhOMy2v15W6o6g5d/?referral_token=ClMZdalnB3FN
 ## 📊 Veri Kaynakları
 
 - **REFIT Dataset**  
-  https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned
+https://www.kaggle.com/datasets/kyleahmurphy/uk-electrical-load
 
 - **Ember Climate Data**  
   https://ember-climate.org/data/
